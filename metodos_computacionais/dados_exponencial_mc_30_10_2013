@@ -1,0 +1,26 @@
+Ajuste de Funções Não Lineares
+
+Exemplo:
+
+	Ajuste Exponencial
+
+	A(t)=A1.e(-lambda1.t)
+
+Determinar A1 e lambda (constante de decaimento radioativo) para o melhor ajuste 
+
+		Sendo: t1/2=ln2/lambda, onde t1/2 é a meia vida do isótopo.
+
+
+
+0 16217
+0.5 9572
+1 5616
+1.5 3607
+2 2293
+2.5 1533
+3 1092
+3.5 847
+4 551
+4.5 461
+5 371
+5.5 321
